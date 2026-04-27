@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://kalavathi-portifolio-99.netlify.app/) (Replace with your actual deployment link)
+[View Portfolio](https://kalavathi-portifolio-99.netlify.app/)
 
 ## 📋 Overview
 
