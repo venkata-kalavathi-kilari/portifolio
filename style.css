@@ -211,7 +211,8 @@ span.multiple-text {
 
 .home-img .img-box {
     width: 30vw;
-    height: 30vw;
+    height: auto;
+    aspect-ratio: 1 / 1;
     animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -242,7 +243,8 @@ span.multiple-text {
 
 .about-img img {
     width: 30vw;
-    height: 30vw;
+    height: auto;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid var(--bg-color);
